@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "abg-interpreter"
+version = "0.1.0"
+description = "Arterial Blood Gas step-by-step interpreter"
+readme = "README.md"
+requires-python = ">=3.8"
