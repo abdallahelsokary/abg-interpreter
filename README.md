@@ -13,7 +13,7 @@ Given a patient's pH, PaCO2, HCO3 (and optionally PaO2), the library:
 ## Installation
 
 ```bash
-pip install abg-interpreter==0.1
+pip install abg-interpreter
 ```
 
 ---
